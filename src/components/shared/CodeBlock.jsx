@@ -6,7 +6,7 @@ const CodeBlock = ({ code, language = "jsx" }) => {
   const copyToClipboard = () => {
     navigator.clipboard.writeText(code);
   };
-
+//hii
   return (
     <div className="relative">
       <button
