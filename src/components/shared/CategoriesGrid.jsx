@@ -50,5 +50,5 @@ const CategoriesGrid = ({ categories, onCategorySelect }) => {
     </div>
   );
 };
-//hii
+
 export default CategoriesGrid;
