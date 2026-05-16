@@ -116,4 +116,3 @@ const ComponentGridWrapper = ({ components, searchTerm, isLoading, error }) => {
 };
 
 export default ComponentGridWrapper;
-//hii
