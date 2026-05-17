@@ -68,7 +68,7 @@ const ComponentPreview = ({ component, isForm = false }) => {
       </div>
     </div>
   );
-//hii
+
   return (
     <div className="border border-gray-200 rounded-xl p-8 bg-white shadow-lg transition-shadow duration-300 hover:shadow-xl">
       <h3 className="text-xl font-bold mb-2 text-gray-800">
