@@ -27,5 +27,5 @@ const ThemePicker = ({ currentTheme, onThemeChange }) => {
     </div>
   );
 };
-//ii
+
 export default ThemePicker;
