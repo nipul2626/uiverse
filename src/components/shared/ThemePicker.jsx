@@ -29,4 +29,3 @@ const ThemePicker = ({ currentTheme, onThemeChange }) => {
 };
 
 export default ThemePicker;
-//hoii
