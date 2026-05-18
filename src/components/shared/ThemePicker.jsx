@@ -26,6 +26,6 @@ const ThemePicker = ({ currentTheme, onThemeChange }) => {
       </div>
     </div>
   );
-};
+};//hii
 
 export default ThemePicker;
