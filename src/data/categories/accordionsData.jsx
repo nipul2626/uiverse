@@ -96,3 +96,4 @@ export const accordionsData = [
     category: "accordion",
   },
 ];
+//jiiif
