@@ -250,4 +250,3 @@ export const avatarsData = [
     category: "avatars",
   },
 ];
-//hii
