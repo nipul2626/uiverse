@@ -1,5 +1,5 @@
 export const avatarsData = [
-  { //hii
+  {
     id: "basic-avatar-set",
     title: "Basic Avatar Styles",
     description: "Responsive and customizable avatar designs",
