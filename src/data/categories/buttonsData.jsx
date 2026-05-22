@@ -340,7 +340,4 @@ export const buttonsData = [
 // iahi[eihghaeigihaeipg
 //     ah
 // e[
-//     aei[iaehgh
-//         aeihgaep
-// gh
-// paaeeja
+//     aei[
