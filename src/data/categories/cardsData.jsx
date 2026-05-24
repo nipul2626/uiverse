@@ -248,8 +248,5 @@ export const cardsData = [
 // agub
 // upabgubaegupb
 // eaegbua
-// g
-// ag
-// async ubg
-// gpap
+// wd
 // bg
