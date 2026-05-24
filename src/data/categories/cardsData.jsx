@@ -246,7 +246,3 @@ export const cardsData = [
 // auabegupb
 // g
 // agub
-// upabgubaegupb
-// eaegbua
-// wd
-// bg
