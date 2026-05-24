@@ -94,7 +94,7 @@ export const categories = [
   { id: "animations", name: "Animations" },
   { id: "skeleton", name: "Skeleton Loaders" },
 
-  // SEO
+
   { id: "meta", name: "Meta Components" },
   { id: "seo-cards", name: "SEO Cards" },
   { id: "structured-data", name: "Structured Data" },
