@@ -100,4 +100,3 @@ export const categories = [
   { id: "structured-data", name: "Structured Data" },
 ];
 
-//hi
