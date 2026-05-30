@@ -294,4 +294,3 @@ export const dropdownsData = [
     category: "dropdowns",
   },
 ];
-//hii
